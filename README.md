@@ -4,7 +4,7 @@ I am Frontend Developer , web designing and UI development using latest web tech
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🎓 &nbsp; Graduated in electronic engineering from Islamic Azad University of Qazvin
+- 🎓 &nbsp; Graduated in electronic engineering
 - 💼 &nbsp; Has expertise in frontend development
 - 🌱 &nbsp; Learning Tailwind | Bootstrap | React
 - ✍️ &nbsp; Coding, listening to music and drinking coffee are my hobbies
