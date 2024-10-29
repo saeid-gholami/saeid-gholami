@@ -36,7 +36,7 @@ I am Frontend Developer , web designing and UI development using latest web tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-gholami" />
 </a>
 
-<h2>📞 &nbsp; Connct Me </h2>
+<h2>📞 &nbsp; Contact Me </h2>
 
 <p>
   <a href="https://instagram.com/saeedgholami.so/">
