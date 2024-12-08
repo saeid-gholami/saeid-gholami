@@ -1,6 +1,6 @@
 <h2>Hi There! I am Saeid Gholami 👋</h2>
 
-I am Frontend Developer , web designing and UI development using latest web technologies. developing creative digital experiences using professional HTML | CSS | JavaScript | Bootstrap . 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
+I am Frontend Developer, web designing and UI development using latest web technologies. developing creative digital experiences using professional HTML | CSS | JavaScript | Bootstrap | React. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
